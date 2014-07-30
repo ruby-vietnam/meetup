@@ -9,7 +9,7 @@ This is centralised repository for any information related to Ruby Meetup events
 ## Khâu chuẩn bị
 
 * Tạo một trang WIKI mới trên Github repo để mọi người có thể đăng ký bài nói
-* Gửi thư mời tới các thành viên quá Facebook
+* Gửi thư mời tới các thành viên qua Facebook
   * Đăng ký sự kiện trên meetup.com dự tính số người tham gia
 * Thu xếp địa điểm tổ chức
   * Phải có projector
@@ -27,6 +27,6 @@ Nếu bạn muốn làm một bài presentation thì đăng ký tên WIKI.
 
 Nội dung của sự kiện sẽ tuân theo format sau:
 
-* [Saigon Ruby Meetup](https://github.com/ruby-vietnam/meetup/wiki/Saigon-Ruby-Meetup)
+* [Saigon Ruby Meetup](https://github.com/ruby-vietnam/meetup/wiki/Saigon-Ruby-Meetup-Template)
 
 
