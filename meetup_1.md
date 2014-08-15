@@ -1,6 +1,7 @@
 # Meetup 1
 
 * Location: East Agile office & Google Hangout
+* Date: 9/8/2014
 * Time: 9:00AM -> 11:30AM
 * URL: http://www.meetup.com/ruby-vietnam/events/198514002/
 * Attendance (Offline/Online): 27/~20
