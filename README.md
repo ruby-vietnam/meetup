@@ -1,6 +1,6 @@
 # Ruby Vietnam Meetup
 
-![Screenshot](https://github.com/jodosha/reeder/blob/master/sweeeet.gif)
+![Screenshot](https://github.com/ruby-vietnam/meetup/blob/master/sweeeet.gif)
 
 This is centralised repository for any information related to Ruby Meetup events in Vietnam.
 
