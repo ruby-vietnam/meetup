@@ -1,5 +1,7 @@
 # Ruby Vietnam Meetup
 
+![Screenshot](https://github.com/jodosha/reeder/blob/master/sweeeet.gif)
+
 This is centralised repository for any information related to Ruby Meetup events in Vietnam.
 
 Đây là repository trung tâm với thông tin về các cuộc gặp thường niên của hội Ruby Việt Nam.
