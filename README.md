@@ -55,3 +55,5 @@ Meetup #1 - Trung Lê (@joneslee85) - Chào mừng các bạn
 Bài nói mở màn Meetup đầu tiên của nhóm. Các bạn sẽ đc biết lịch sử
 hình thành và giá trị mà nhóm hướng tới. ...
 ```
+
+BTC sẽ tag ticket với từ khoá 'Accepted' nếu bài nói đc chấp nhận và từ khoá 'Maybe next time' nếu không đc chấp nhận.
