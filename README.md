@@ -18,9 +18,12 @@ This is centralised repository for any information related to Ruby Meetup events
   * Projector
   * Internet
   * Loa
+  * Chụp hình
+  * Quay phim (nếu có)
 * Thu xếp phụ cần
   * Đồ ăn
   * Đồ uống
+  * Khăn giấy
 * Tiếp nhận các bài nói kỹ thuật
 * Cập nhật thông tin về bài nói đc chấp nhận và các thông tin chưa thống nhất trên Facebook Page, Meetup.com
 
