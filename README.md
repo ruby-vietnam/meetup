@@ -6,6 +6,8 @@ This is centralised repository for any information related to Ruby Meetup events
 
 Đây là repository trung tâm với thông tin về các cuộc gặp thường niên của hội Ruby Việt Nam.
 
+Sự kiện diễn ra vào thứ 7 tuần thứ 3 của mỗi tháng. Thông tin chi tiết sẽ được thông báo.
+
 # Cách thức tổ chức
 
 ## Khâu chuẩn bị
