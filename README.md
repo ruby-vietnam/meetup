@@ -28,6 +28,7 @@ Sự kiện diễn ra vào thứ 7 tuần thứ 3 của mỗi tháng. Thông tin
   * Khăn giấy
 * Tiếp nhận các bài nói kỹ thuật
 * Cập nhật thông tin về bài nói đc chấp nhận và các thông tin chưa thống nhất trên Facebook Page, Meetup.com
+* Soạn nội dung chương trình, xin sử dụng Keynote template có sẵn trên repository, nếu máy không có iWorks thì nên Export ra 1 bản PDF dự phòng tình huống không có máy nào chạy Mac 
 
 ## Nội dung chương trình
 
