@@ -48,6 +48,7 @@ qua thông qua hacking trực tiếp với sự tham gia thảo luận và đón
 * Kết buổi và giao lưu
 
 
+
 * Housekeeping
 * 3 long talks, 15' each ranging from Beginner to Advanced level
 * Break after the 2nd long talk
