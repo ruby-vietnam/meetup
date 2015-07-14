@@ -14,8 +14,7 @@ The event is organised every month on a desginated date of the 3rd week of the m
 
 ## Khâu chuẩn bị
 
-* Tạo một trang event mới trên Meetup.com và mời các thành viên
-* Thông báo sự kiện trên Facebook page
+* Thông báo sự kiện trên Facebook event
 * Thu xếp địa điểm tổ chức và thu xếp:
   * Ghế
   * Bàn
